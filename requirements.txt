@@ -1,0 +1,3 @@
+Flask==0.12
+speech_recognition==3.6.5
+soundfile==0.8.1
